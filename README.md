@@ -15,7 +15,7 @@ statsmodels.tsa.stattools
 ## Documentation Map
 
 LICENSE
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/carolinehagood/covid-project/blob/main/LICENSE) file for details.
 
 1. Data
    - clean_vaccine_data.csv
@@ -25,6 +25,12 @@ This project is licensed under the MIT License - see the [LICENSE]() file for de
    - us-daily-covid-vaccine-doses-administered.csv
 
 2. Scripts
+   - Cleaning_Covid_Death_Data.ipynb
+   - Combining_data.ipynb
+   - Final_Data_Analysis.ipynb
+   - vaccine_data_cleaning.ipynb
+   - MasterScript.ipynb
+     
 3. Output
 
 
