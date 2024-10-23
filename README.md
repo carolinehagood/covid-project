@@ -15,6 +15,7 @@ statsmodels.tsa.stattools
 ## Documentation Map
 
 LICENSE
+
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/carolinehagood/covid-project/blob/main/LICENSE) file for details.
 
 1. Data
