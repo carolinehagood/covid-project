@@ -40,13 +40,13 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 - Fork this repository, and clone forked repository in terminal of workspace
 
- ! git clone https://github.com/carolinehagood/covid-project.git
+  **! git clone https://github.com/carolinehagood/covid-project.git**
 
 - Install and load packages and all dependencies
   
 - Read in COVID-19_Death_Counts.csv and us-daily-covid-vaccine-doses-administered.csv datasets to be cleaned. Run Cleaning_Covid_Death_Data.ipynb and vaccine_data_cleaning.ipynb
   
-- Run Combining_data.ipynb scripts to join vaccine and covid-19 datasets
+- Run Combining_data.ipynb script to join vaccine and covid-19 datasets
   
 - Finally, run the Final_Data_Analysis.ipynb 
 
