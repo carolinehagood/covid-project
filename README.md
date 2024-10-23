@@ -34,6 +34,13 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
    - MasterScript.ipynb
      
 3. Output
+   - output/Covid-Deaths-Year-Comp.png
+   - output/Covid-Deaths21.png
+   - output/Covid-Deaths22.png
+   - output/Covid-Weekly-Dist.png
+   - output/Vaccine-Weekly-Dist.png
+   - output/Vaccine-Year-Comp.png
+   
 
 
 ## Reproducing Results
