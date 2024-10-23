@@ -5,6 +5,7 @@
 ## Software and Platform
 
 This project was developed using Python and includes key functionalities such as data cleaning, visualization, merging. A range of python packages were used to achieve these tasks:
+
 pandas
 numpy
 matplotlib
