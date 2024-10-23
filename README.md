@@ -40,7 +40,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 - Fork this repository, and clone forked repository in terminal of workspace
 
-  **! git clone https://github.com/carolinehagood/covid-project.git**
+  ```! git clone https://github.com/carolinehagood/covid-project.git
 
 - Install and load packages and all dependencies
   
