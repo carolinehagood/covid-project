@@ -28,6 +28,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
    - data/merged_data.csv
    - data/Vaccination-data-CDC.csv
    - data/vaccine_data_cleaned.csv
+   - data/Data appendix.pdf
 
 
 2. Scripts
