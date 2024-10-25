@@ -20,26 +20,29 @@ LICENSE
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/carolinehagood/covid-project/blob/main/LICENSE) file for details.
 
 1. Data
-   - clean_vaccine_data.csv
-   - COVID-19_Death_Counts.csv
-   - Covid_deaths_cleaned.csv
-   - Total_cleaned_data.csv
-   - us-daily-covid-vaccine-doses-administered.csv
+   - data/COVID-19_Death_Counts.csv
+   - data/Covid_deaths_cleaned.csv
+   - data/merged_data.csv
+   - data/Vaccination-data-CDC.csv
+   - data/vaccine_data_cleaned.csv
+
 
 2. Scripts
-   - Cleaning_Covid_Death_Data.ipynb
-   - Combining_data.ipynb
-   - Final_Data_Analysis.ipynb
-   - vaccine_data_cleaning.ipynb
-   - MasterScript.ipynb
+   - scripts/Cleaning_Covid_Death_Data.ipynb
+   - scripts/Combining_data.ipynb
+   - scripts/Final_Data_Analysis.ipynb
+   - scripts/vaccine_data_cleaning.ipynb
+   - scripts/MasterScript.ipynb
+  
      
 3. Output
-   - output/Covid-Deaths-Year-Comp.png
-   - output/Covid-Deaths21.png
-   - output/Covid-Deaths22.png
-   - output/Covid-Weekly-Dist.png
-   - output/Vaccine-Weekly-Dist.png
-   - output/Vaccine-Year-Comp.png
+   - output/Covid Deaths 2020.png
+   - output/Covid Deaths 2021.png
+   - output/Covid Deaths 2022.png
+   - output/Covid Deaths Line Graph.png
+   - output/Cummulative vaccinations.png
+   - output/Vaccines weekly overtime.png
+  
    
 
 
