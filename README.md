@@ -1,5 +1,7 @@
 ## Project Name and Introduction 
 COVID-19 DEATHS DECREASE OVERTIME AS VACCINATION DOSES INCREASE: A TIME SERIES ANALYSIS
+
+
  Maggie Welch, Caroline Hagood, Emmanuella Cann
 
 
