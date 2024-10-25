@@ -56,7 +56,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
   ```pip install -r requirements.txt ```
   
-- Read in COVID-19_Death_Counts.csv and us-daily-covid-vaccine-doses-administered.csv datasets to be cleaned. Run Cleaning_Covid_Death_Data.ipynb and vaccine_data_cleaning.ipynb
+- Read in COVID-19_Death_Counts.csv and Vaccination-data-CDC.csv datasets to be cleaned. Run Cleaning_Covid_Death_Data.ipynb and vaccine_data_cleaning.ipynb
   
 - Run Combining_data.ipynb script to join vaccine and covid-19 datasets
   
@@ -65,3 +65,13 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## References
 
+[1] “Chapter 4: Granger Causality Test — Time Series Analysis Handbook,” phdinds-aim.github.io. https://phdinds-aim.github.io/time_series_handbook/04_GrangerCausality/04_GrangerCausality.html
+
+
+[2]F. Chirico, J. Teixeira da Silva, P. Tsigaris, and K. Sharun, “Safety & Effectiveness of COVID-19 vaccines: a Narrative Review,” Indian Journal of Medical Research, vol. 155, no. 1, p. 91, 2022, doi: https://doi.org/10.4103/ijmr.ijmr_474_21. 
+
+
+[3]“8.2 Cross Correlation Functions and Lagged Regressions | STAT 510,” PennState: Statistics Online Courses. https://online.stat.psu.edu/stat510/lesson/8/8.2
+
+
+[4]“COVID-19 Vaccination Trends in the United States,National and Jurisdictional | Data | Centers for Disease Control and Prevention,” data.cdc.gov. https://data.cdc.gov/Vaccinations/COVID-19-Vaccination-Trends-in-the-United-States-N/rh2h-3yt2/about_data
