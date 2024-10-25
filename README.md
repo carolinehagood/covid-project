@@ -1,4 +1,5 @@
 ## Project Name and Introduction 
+COVID-19 DEATHS DECREASE OVERTIME AS VACCINATION DOSES INCREASE: A TIME SERIES ANALYSIS
  Maggie Welch, Caroline Hagood, Emmanuella Cann
 
 
@@ -29,9 +30,9 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 2. Scripts
    - scripts/Cleaning_Covid_Death_Data.ipynb
+   - scripts/Cleaning_vaccine_data.ipynb
    - scripts/Combining_data.ipynb
    - scripts/Final_Data_Analysis.ipynb
-   - scripts/vaccine_data_cleaning.ipynb
    - scripts/MasterScript.ipynb
   
      
@@ -75,3 +76,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 
 [4] “COVID-19 Vaccination Trends in the United States,National and Jurisdictional | Data | Centers for Disease Control and Prevention,” data.cdc.gov. https://data.cdc.gov/Vaccinations/COVID-19-Vaccination-Trends-in-the-United-States-N/rh2h-3yt2/about_data
+
+
+[5] “Provisional COVID-19 Death Counts by Week Ending Date and State | Data | Centers for Disease Control and Prevention,” data.cdc.gov. https://data.cdc.gov/NCHS/Provisional-COVID-19-Death-Counts-by-Week-Ending-D/r8kw-7aab/about_data
+‌
