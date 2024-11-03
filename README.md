@@ -1,5 +1,5 @@
-## Project Name and Introduction 
-COVID-19 DEATHS DECREASE OVERTIME AS VACCINATION DOSES INCREASE: A TIME SERIES ANALYSIS
+## COVID-19 DEATHS DECREASE OVERTIME AS VACCINATION DOSES INCREASE: A TIME SERIES ANALYSIS
+Our research project aims to examine whether an increase in vaccination rates is correlated with a decrease in COVID-19 mortality rates from 2020 to 2022. We focus on weekly COVID-19 death data rather than infection rates because the primary goal of vaccines is to lessen the severity of the illness, not prevent it entirely. If our findings confirm that higher vaccination rates correlate with lower fatality rates, it may help alleviate fears surrounding vaccine efficacy, encouraging more people to receive initial vaccinations and booster doses.
 
 
  Maggie Welch, Caroline Hagood, Emmanuella Cann
